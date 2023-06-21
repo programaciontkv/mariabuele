@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+                    <autorizacion>
+		              <estado>AUTORIZADO</estado>
+		              <numeroAutorizacion>0601202301070438409800120010010000000011234567816</numeroAutorizacion>
+		              <fechaAutorizacion>2023-01-06T11:34:37-05:00</fechaAutorizacion>
+		              <ambiente>PRODUCCIÓN</ambiente>
+		              <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>BUELE SARMIENTO MARIA EUGENIA</razonSocial>
+<nombreComercial>IMPORTADORA BYC LA EXCLUSIVIDAD PARA TU HOGAR TRAMONTINA</nombreComercial>
+<ruc>0704384098001</ruc>
+<claveAcceso>0601202301070438409800120010010000000011234567816</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000000001</secuencial>
+<dirMatriz>AV. HURTADO DE MEDOZA 10-72 Y BULAN. JUNTO A LA ITALIANA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>06/01/2023</fechaEmision>
+<dirEstablecimiento>AV. HURTADO DE MEDOZA 10-72 Y BULAN. JUNTO A LA ITALIANA</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>CRESPO JARAMILLO HUGO GIOVANNY</razonSocialComprador>
+<identificacionComprador>0702451790001</identificacionComprador>
+<totalSinImpuestos>585.64</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>585.64</baseImponible>
+<valor>70.28</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>655.92</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>655.92</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>FAM.TIP.184</codigoPrincipal>
+<codigoAuxiliar>20123020</codigoAuxiliar>
+<descripcion>SARTEN  Omelera 20cm LORETO</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>10.27</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>30.81</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>30.81</baseImponible>
+<valor>3.7</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.103</codigoPrincipal>
+<codigoAuxiliar>28532614</codigoAuxiliar>
+<descripcion>HERVIDOR LECHE CTAPA 15 LIT 14CM</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>11.6</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>34.8</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>34.8</baseImponible>
+<valor>4.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.102</codigoPrincipal>
+<codigoAuxiliar>28531616</codigoAuxiliar>
+<descripcion>HERVIDOR LECHE 16</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>14.29</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>42.87</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>42.87</baseImponible>
+<valor>5.14</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.124</codigoPrincipal>
+<codigoAuxiliar>25099980</codigoAuxiliar>
+<descripcion>JUEGO DE POTES 3 PZAS MIXCOLOR</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>10.71</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>32.13</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>32.13</baseImponible>
+<valor>3.86</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.054</codigoPrincipal>
+<codigoAuxiliar>22902006</codigoAuxiliar>
+<descripcion>CUCHILLO DE FILETEAR 6</descripcion>
+<cantidad>12</cantidad>
+<precioUnitario>1.6</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>19.2</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>19.2</baseImponible>
+<valor>2.3</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.056</codigoPrincipal>
+<codigoAuxiliar>22902008</codigoAuxiliar>
+<descripcion>CUCHILLO DE FILETEAR 8</descripcion>
+<cantidad>12</cantidad>
+<precioUnitario>1.97</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>23.64</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>23.64</baseImponible>
+<valor>2.84</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.097</codigoPrincipal>
+<codigoAuxiliar>22328007</codigoAuxiliar>
+<descripcion>HACHUELA 7 DYNAMIC</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>6.48</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>6.48</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>6.48</baseImponible>
+<valor>0.78</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.058</codigoPrincipal>
+<codigoAuxiliar>23080083</codigoAuxiliar>
+<descripcion>CUCHILLO LEGUMBRES 3 ATHUS</descripcion>
+<cantidad>12</cantidad>
+<precioUnitario>0.51</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>6.12</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>6.12</baseImponible>
+<valor>0.73</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.213</codigoPrincipal>
+<codigoAuxiliar>25920169</codigoAuxiliar>
+<descripcion>TIJERA COCINA</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>5.37</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>16.11</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>16.11</baseImponible>
+<valor>1.93</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.115</codigoPrincipal>
+<codigoAuxiliar>23299183</codigoAuxiliar>
+<descripcion>JUEGO DE CUBIERTOS 25 PZAS TULUN CPORTACUB</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>11.83</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>35.49</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>35.49</baseImponible>
+<valor>4.26</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.191</codigoPrincipal>
+<codigoAuxiliar>20890025</codigoAuxiliar>
+<descripcion>SARTEN PROFESIONAL 25CM</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>25.89</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>77.67</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>77.67</baseImponible>
+<valor>9.32</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.129</codigoPrincipal>
+<codigoAuxiliar>28599601</codigoAuxiliar>
+<descripcion>JUEGO OLLAS 5 PIEZAS TEFLON</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>58.03</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>58.03</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>58.03</baseImponible>
+<valor>6.96</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.208</codigoPrincipal>
+<codigoAuxiliar>61637503</codigoAuxiliar>
+<descripcion>TERMO 1LT NEGRO</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>8.75</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>17.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>17.5</baseImponible>
+<valor>2.1</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.209</codigoPrincipal>
+<codigoAuxiliar>61637507</codigoAuxiliar>
+<descripcion>TERMO 1LT VERDE</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>8.75</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>17.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>17.5</baseImponible>
+<valor>2.1</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.210</codigoPrincipal>
+<codigoAuxiliar>61637506</codigoAuxiliar>
+<descripcion>TERMO 1LT VINO</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>8.75</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>17.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>17.5</baseImponible>
+<valor>2.1</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.202</codigoPrincipal>
+<codigoAuxiliar>61637108</codigoAuxiliar>
+<descripcion>T ERMO1 L   BEIG EXATA</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>9.43</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>18.86</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>18.86</baseImponible>
+<valor>2.26</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.158</codigoPrincipal>
+<codigoAuxiliar>62125203</codigoAuxiliar>
+<descripcion>OLLA ALTA 20CM SOLAR SILICONA</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>37.25</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>37.25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>37.25</baseImponible>
+<valor>4.47</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.160</codigoPrincipal>
+<codigoAuxiliar>62125280</codigoAuxiliar>
+<descripcion>OLLA ALTA 28CM SOLAR SILICONE</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>45.74</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>45.74</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>45.74</baseImponible>
+<valor>5.49</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.161</codigoPrincipal>
+<codigoAuxiliar>62125300</codigoAuxiliar>
+<descripcion>OLLA ALTA 30CM SOLAR SILICONE</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>47.94</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>47.94</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>47.94</baseImponible>
+<valor>5.75</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">MANUEL GALLARDO S/N Y 30 DE SEPTIEMBRE</campoAdicional>
+<campoAdicional nombre="Telefono">0990222344</campoAdicional>
+<campoAdicional nombre="Email">creditosff@hotmail.com,victorrbuele@hotmail.com</campoAdicional>
+<campoAdicional nombre="Observaciones">  CREDITO 60 DIAS </campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature520958">
+<ds:SignedInfo Id="Signature-SignedInfo591311">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID312622" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature520958-SignedProperties808189">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Bs7xBhaUA5JnL2NAWp4iFs8yFV8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1369194">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>TRaHWR5Kk9wj4UtX0hld3bncA6U=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-200340" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>FTV93rWRYYfbYPwGLxZGJErZo3U=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1009161">
+MEhoHFFGzTDDuEJ74iXX6TpScrCLIrv8J84WLdboKVXQLn5X8xeNvWPhRlryrPIbKkn4eYjpRZLK
+Y4dy/zvtduW0VsQjhFAS+ut/T9E3mTpkY16/6gymokluOyp2eusjugIS5EoSbdrpnMFPpgXc4Ejv
+tw8GDQC+LI2cOPTDlSPC+6tivqrtFqSvRsiaaWSG9q3QhqFBUbAwhYn5UndSOk5xCQ+EebX4TsZx
+B2H2QsKS7LaZFFzjhz+wq9Zl7Tj2lx5vfKYNOyrrGJc8rfCy0YPUQza3+xdYrYZqGpmB2oXGg/75
+rMOOSWz6aPLzmKIOnpKGUwv5YY1ymYYYdKWeyw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1369194">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJPTCCByWgAwIBAgIIHd5Z4KY5T5swDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDEwNTIyMTUwMFoXDTI0MDEwNTIyMTUwMFowgaAxCzAJBgNVBAYTAkVDMRgwFgYDVQQEDA9C
+VUVMRSBTQVJNSUVOVE8xFjAUBgNVBCoMDU1BUklBIEVVR0VOSUExGTAXBgNVBAUTEElEQ0VDLTA3
+MDQzODQwOTgxJjAkBgNVBAMMHU1BUklBIEVVR0VOSUEgQlVFTEUgU0FSTUlFTlRPMRwwGgYDVQRh
+DBNUSU5FQy0wNzA0Mzg0MDk4MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmPEa
+MK7XnDWBEq7XxJ0JXYmYhK2iebpo2Uh867MeyQSX3qYnPoTMweW5lP0IOpKq3Nzj1M/dX39Z78rW
+1bZ2GGwVzX1tYwNcUQ2OVTxldDarm5Wj65PjOov03zeGoNrvFyhzVD0CHUFP3gj7eqay58F47CeX
+k92d46imW5AHokj8ETAFdsesOFIwYE2ZbaVWGHILOJlvUNGM7oC+sfejJUrE4+AHLAEDp+qijgN9
++SfL6IWyQRBgSy0ocOcoRPS3Y/JvkZDRtqFr9KQ3mgGMv0ELRdD/XKhgK2bwrxy8cW4gklxjl8cq
+7ENCsie3BEK3lFvpV7/jBh+IwICAOVkQtQIDAQABo4IEXzCCBFswGwYLKwYBBAGC8TZmAwEEDAwK
+MDcwNDM4NDA5ODAeBgsrBgEEAYLxNmYDCwQPDA0wNzA0Mzg0MDk4MDAxMIHXBggrBgEFBQcBAQSB
+yjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2Fk
+L3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFO4U6VACUX+2I3fv48nl
+nAiCTQNaMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkG
+A1UdIASBkTCBjjCBiwYMKwYBBAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8g
+REUgUEVSU09OQSBOQVRVUkFMIE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6g
+PIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRh
+LmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1
+Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMIIBlQYDVR0RBIIBjDCCAYiBHW1hcmlhYnVlbGVzYXJtaWVudG9AZ21haWwuY29toBsGCysG
+AQQBgvE2ZgMBoAwMCjA3MDQzODQwOTigHgYLKwYBBAGC8TZmAwKgDwwNTUFSSUEgRVVHRU5JQaAW
+BgsrBgEEAYLxNmYDA6AHDAVCVUVMRaAaBgsrBgEEAYLxNmYDBKALDAlTQVJNSUVOVE+gQgYLKwYB
+BAGC8TZmAwegMwwxVE9UT1JBQ09DSEFcLCBBVi4gSFVSVEFETyBERSBNRURPWkEgMTAtNzIgWSBC
+VUxBTqAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5NTM2MTMzM6AXBgsrBgEEAYLxNmYDCaAIDAZD
+VUVOQ0GgHgYLKwYBBAGC8TZmAwugDwwNMDcwNDM4NDA5ODAwMaATBgsrBgEEAYLxNmYDDKAEDAJF
+Q6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZm
+AzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAR+tpmQ6RzbrjUGCsEuouiJ9wusgEloMX
+QBjDPbmd16b7pU90FkocW+xxdS0idfYve14iU/u1Dane97jp4wxZfOt+tu7l12sXcN1L3JTmxgDA
+a02FjChD8v7rWf7QVSHZV9ms46eN+xJ7BehRqp6MbTqClW15/P+VZsXZPR1hxip7j25O2KwcQK4P
+/xCp/HRM3E3MbA1tIesZ8wJKZlUdz6ZB56V3tITlBvVbG09kfQdnjoNsVdYiaMSiTkpEiAgHx5Z2
+J7htzXR076uj9uUQxMnrhxZiZaiwF/Yox4k+Fm4arBZ9/ylCxII+LCdVnlqX53r6e1KLujoPMSiO
+GR1xBHJySBjJJS4rSlWBbAS1u461Mcmlh98n6DIRK3BD4ai/7z4zU1zFVKyfp/t67GJMvkWEMtIH
+kWiLpCzXuEzpiMKfPUTt7S+99xtS2A79U1JHz7TWIsWfeIugAtlo7srKnNIK2QqA1MYa8zyJXWbV
+OWciyDYE18Vfiv59OvJ+v8NIiTSVuwi+NivJZ/OyXweppevdRFmlrBCwcNyJdKSOFJgNOsCwTV7Q
+U/i/r4vjNml42Jh6975rm4K+a5nQNEFjRzLEo97OuiBEz6JOeWsrdLaH3ZCQ54uC5H8kf+ZNORNk
+LYqj6qkBN/cG6JdRHA1fVwZPNSQGx0lDq1KehXWh0uU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mPEaMK7XnDWBEq7XxJ0JXYmYhK2iebpo2Uh867MeyQSX3qYnPoTMweW5lP0IOpKq3Nzj1M/dX39Z
+78rW1bZ2GGwVzX1tYwNcUQ2OVTxldDarm5Wj65PjOov03zeGoNrvFyhzVD0CHUFP3gj7eqay58F4
+7CeXk92d46imW5AHokj8ETAFdsesOFIwYE2ZbaVWGHILOJlvUNGM7oC+sfejJUrE4+AHLAEDp+qi
+jgN9+SfL6IWyQRBgSy0ocOcoRPS3Y/JvkZDRtqFr9KQ3mgGMv0ELRdD/XKhgK2bwrxy8cW4gklxj
+l8cq7ENCsie3BEK3lFvpV7/jBh+IwICAOVkQtQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature520958-Object81665"><etsi:QualifyingProperties Target="#Signature520958"><etsi:SignedProperties Id="Signature520958-SignedProperties808189"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-01-06T11:34:38-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>f1/3wJsAi3XWNUzEURZB9Uj9w/4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2152256493325995931</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-200340"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+                    	<mensajes/>
+                    </autorizacion>

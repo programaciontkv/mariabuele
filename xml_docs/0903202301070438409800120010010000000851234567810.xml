@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+                    <autorizacion>
+		              <estado>AUTORIZADO</estado>
+		              <numeroAutorizacion>0903202301070438409800120010010000000851234567810</numeroAutorizacion>
+		              <fechaAutorizacion>2023-03-09T12:34:38-05:00</fechaAutorizacion>
+		              <ambiente>PRODUCCIÓN</ambiente>
+		              <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>BUELE SARMIENTO MARIA EUGENIA</razonSocial>
+<nombreComercial>IMPORTADORA BYC LA EXCLUSIVIDAD PARA TU HOGAR TRAMONTINA</nombreComercial>
+<ruc>0704384098001</ruc>
+<claveAcceso>0903202301070438409800120010010000000851234567810</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000000085</secuencial>
+<dirMatriz>AV. HURTADO DE MEDOZA 10-72 Y BULAN. JUNTO A LA ITALIANA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>09/03/2023</fechaEmision>
+<dirEstablecimiento>AV. HURTADO DE MEDOZA 10-72 Y BULAN. JUNTO A LA ITALIANA</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>ROMAN ROMAN GALO PATRICIOROMAN ROMAN GALO PATRICIO </razonSocialComprador>
+<identificacionComprador>0703087288001</identificacionComprador>
+<totalSinImpuestos>241.51</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>241.51</baseImponible>
+<valor>28.98</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>270.49</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>270.49</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>58000133</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.076</codigoAuxiliar>
+<descripcion>DUCHA ELETRICA 3 TEMP. 127V 5500W</descripcion>
+<cantidad>5</cantidad>
+<precioUnitario>9.15</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>45.75</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>45.75</baseImponible>
+<valor>5.49</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>58000073</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.078</codigoAuxiliar>
+<descripcion>DUCHA ELETRICA 4 TEMP. 127V 5500W</descripcion>
+<cantidad>5</cantidad>
+<precioUnitario>14.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>72.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>72.5</baseImponible>
+<valor>8.7</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>22328007</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.097</codigoAuxiliar>
+<descripcion>HACHUELA 7 DYNAMIC</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>6.7</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>20.1</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>20.1</baseImponible>
+<valor>2.41</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>41516513</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.121</codigoAuxiliar>
+<descripcion>JUEGO DE DESTORNILLADORES 13 PZS</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>13.2</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>26.4</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>26.4</baseImponible>
+<valor>3.17</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>41516536</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.122</codigoAuxiliar>
+<descripcion>JUEGO DE DESTORNILLADORES 6 PZS</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>3.69</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>7.38</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>7.38</baseImponible>
+<valor>0.89</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>20125034</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.170</codigoAuxiliar>
+<descripcion>PAELLERA 34</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>18.57</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>18.57</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>18.57</baseImponible>
+<valor>2.23</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>43181501</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.180</codigoAuxiliar>
+<descripcion>PLOMADA DE PUNTA 400G</descripcion>
+<cantidad>6</cantidad>
+<precioUnitario>3.57</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>21.42</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>21.42</baseImponible>
+<valor>2.57</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>25163160</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.175</codigoAuxiliar>
+<descripcion>PINZA MULTIUSO ABILITY</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>2.28</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>4.56</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>4.56</baseImponible>
+<valor>0.55</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>20252036</codigoPrincipal>
+<codigoAuxiliar>FAM.TIP.224</codigoAuxiliar>
+<descripcion>WOK 36 LORETO</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>24.83</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>24.83</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>24.83</baseImponible>
+<valor>2.98</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">AV. UNIVERSITARIA </campoAdicional>
+<campoAdicional nombre="Telefono">0981587132</campoAdicional>
+<campoAdicional nombre="Email">galop_73@hotmail.com</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature734070">
+<ds:SignedInfo Id="Signature-SignedInfo497689">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID746596" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature734070-SignedProperties785024">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>sH7VD6+o3AoDK63VsA6Ece7DfLs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11033438">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pnltHsh62LzRlUStRqOWAJRp+d0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-498007" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xuWI8a3C5azBtIUl9P+17JDhcjU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue966405">
+LzHjQ+8BW6rqvUAUMeRsWhMdAruCn7xyWkN7uu/W77E/NUD0+u/1qL7gEmN6Dm8xWm6RKEr/4gUN
+nKZEKOcqWuRLd9FQ+GQgvDkxWuqKvb3Ob8orEFuLGufM1EQ6hSQsdeUcYB+wv/iTW90reFhprqTX
+y5vsbGN+CUuE6Q/QPpP+RxoWKdxWaWss/n7cYpa1IKUn8QXjXUkN2xSIA9KXHrsDAbhpnUr1WSj+
+bBY3rscpkQNaBsb7ujYvEW1C5E/mfJAx6BC3uFHlcYwWHx4Nd/YvoIC2CoQf+TSpkCVKuYwvLc1g
+ZLwoR5/VJfS6VUi+7PKp/XmEDgYRl2pVWTytrg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11033438">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJPTCCByWgAwIBAgIIHd5Z4KY5T5swDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDEwNTIyMTUwMFoXDTI0MDEwNTIyMTUwMFowgaAxCzAJBgNVBAYTAkVDMRgwFgYDVQQEDA9C
+VUVMRSBTQVJNSUVOVE8xFjAUBgNVBCoMDU1BUklBIEVVR0VOSUExGTAXBgNVBAUTEElEQ0VDLTA3
+MDQzODQwOTgxJjAkBgNVBAMMHU1BUklBIEVVR0VOSUEgQlVFTEUgU0FSTUlFTlRPMRwwGgYDVQRh
+DBNUSU5FQy0wNzA0Mzg0MDk4MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmPEa
+MK7XnDWBEq7XxJ0JXYmYhK2iebpo2Uh867MeyQSX3qYnPoTMweW5lP0IOpKq3Nzj1M/dX39Z78rW
+1bZ2GGwVzX1tYwNcUQ2OVTxldDarm5Wj65PjOov03zeGoNrvFyhzVD0CHUFP3gj7eqay58F47CeX
+k92d46imW5AHokj8ETAFdsesOFIwYE2ZbaVWGHILOJlvUNGM7oC+sfejJUrE4+AHLAEDp+qijgN9
++SfL6IWyQRBgSy0ocOcoRPS3Y/JvkZDRtqFr9KQ3mgGMv0ELRdD/XKhgK2bwrxy8cW4gklxjl8cq
+7ENCsie3BEK3lFvpV7/jBh+IwICAOVkQtQIDAQABo4IEXzCCBFswGwYLKwYBBAGC8TZmAwEEDAwK
+MDcwNDM4NDA5ODAeBgsrBgEEAYLxNmYDCwQPDA0wNzA0Mzg0MDk4MDAxMIHXBggrBgEFBQcBAQSB
+yjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2Fk
+L3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFO4U6VACUX+2I3fv48nl
+nAiCTQNaMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkG
+A1UdIASBkTCBjjCBiwYMKwYBBAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8g
+REUgUEVSU09OQSBOQVRVUkFMIE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6g
+PIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRh
+LmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1
+Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMIIBlQYDVR0RBIIBjDCCAYiBHW1hcmlhYnVlbGVzYXJtaWVudG9AZ21haWwuY29toBsGCysG
+AQQBgvE2ZgMBoAwMCjA3MDQzODQwOTigHgYLKwYBBAGC8TZmAwKgDwwNTUFSSUEgRVVHRU5JQaAW
+BgsrBgEEAYLxNmYDA6AHDAVCVUVMRaAaBgsrBgEEAYLxNmYDBKALDAlTQVJNSUVOVE+gQgYLKwYB
+BAGC8TZmAwegMwwxVE9UT1JBQ09DSEFcLCBBVi4gSFVSVEFETyBERSBNRURPWkEgMTAtNzIgWSBC
+VUxBTqAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5NTM2MTMzM6AXBgsrBgEEAYLxNmYDCaAIDAZD
+VUVOQ0GgHgYLKwYBBAGC8TZmAwugDwwNMDcwNDM4NDA5ODAwMaATBgsrBgEEAYLxNmYDDKAEDAJF
+Q6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZm
+AzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAR+tpmQ6RzbrjUGCsEuouiJ9wusgEloMX
+QBjDPbmd16b7pU90FkocW+xxdS0idfYve14iU/u1Dane97jp4wxZfOt+tu7l12sXcN1L3JTmxgDA
+a02FjChD8v7rWf7QVSHZV9ms46eN+xJ7BehRqp6MbTqClW15/P+VZsXZPR1hxip7j25O2KwcQK4P
+/xCp/HRM3E3MbA1tIesZ8wJKZlUdz6ZB56V3tITlBvVbG09kfQdnjoNsVdYiaMSiTkpEiAgHx5Z2
+J7htzXR076uj9uUQxMnrhxZiZaiwF/Yox4k+Fm4arBZ9/ylCxII+LCdVnlqX53r6e1KLujoPMSiO
+GR1xBHJySBjJJS4rSlWBbAS1u461Mcmlh98n6DIRK3BD4ai/7z4zU1zFVKyfp/t67GJMvkWEMtIH
+kWiLpCzXuEzpiMKfPUTt7S+99xtS2A79U1JHz7TWIsWfeIugAtlo7srKnNIK2QqA1MYa8zyJXWbV
+OWciyDYE18Vfiv59OvJ+v8NIiTSVuwi+NivJZ/OyXweppevdRFmlrBCwcNyJdKSOFJgNOsCwTV7Q
+U/i/r4vjNml42Jh6975rm4K+a5nQNEFjRzLEo97OuiBEz6JOeWsrdLaH3ZCQ54uC5H8kf+ZNORNk
+LYqj6qkBN/cG6JdRHA1fVwZPNSQGx0lDq1KehXWh0uU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mPEaMK7XnDWBEq7XxJ0JXYmYhK2iebpo2Uh867MeyQSX3qYnPoTMweW5lP0IOpKq3Nzj1M/dX39Z
+78rW1bZ2GGwVzX1tYwNcUQ2OVTxldDarm5Wj65PjOov03zeGoNrvFyhzVD0CHUFP3gj7eqay58F4
+7CeXk92d46imW5AHokj8ETAFdsesOFIwYE2ZbaVWGHILOJlvUNGM7oC+sfejJUrE4+AHLAEDp+qi
+jgN9+SfL6IWyQRBgSy0ocOcoRPS3Y/JvkZDRtqFr9KQ3mgGMv0ELRdD/XKhgK2bwrxy8cW4gklxj
+l8cq7ENCsie3BEK3lFvpV7/jBh+IwICAOVkQtQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature734070-Object162937"><etsi:QualifyingProperties Target="#Signature734070"><etsi:SignedProperties Id="Signature734070-SignedProperties785024"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-03-09T12:34:34-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>f1/3wJsAi3XWNUzEURZB9Uj9w/4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2152256493325995931</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-498007"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+                    	<mensajes/>
+                    </autorizacion>
